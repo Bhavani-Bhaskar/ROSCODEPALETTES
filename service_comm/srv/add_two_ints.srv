@@ -1,0 +1,6 @@
+# Request: two integers
+int32 a
+int32 b
+---
+# Response: the sum of the two integers
+int32 sum
